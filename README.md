@@ -1,2 +1,2 @@
-# Energy-aware-Drone-based-Parcel-Delivery-Problem-with-Multi-charging-Selection-Strategies
-Energy-aware Drone-based Parcel Delivery Problem with Multi-charging Selection Strategies
+# Energy-aware-Drone-based-Parcel-Delivery-Problem-with-Multi-Charging-Mode-Availability
+Energy-aware-Drone-based-Parcel-Delivery-Problem-with-Multi-Charging-Mode-Availability
